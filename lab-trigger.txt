@@ -1,7 +1,4 @@
-This is my GitHub Actions practical.
-
-Testing MongoDB workflow.
-Testing PostgreSQL workflow.
-Testing Redis workflow.
-
-Repository forked and modified using AWS EC2.
+Testing GitHub Actions.
+Testing MongoDB.
+Testing PostgreSQL.
+Testing Redis.
